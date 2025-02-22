@@ -1,20 +1,19 @@
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: 'Filson', sans-serif;
-  }
-  th {
-    background-color: #DE5126;
-    color: #FFFFFF;
-    padding: 10px;
-    text-align: left;
-  }
-  td {
-    padding: 8px;
-    border-bottom: 1px solid #2D2625;
-  }
-  tr:nth-child(even) {
-    background-color: #F8F8F8;
-  }
-</style>
+
+table {
+width: 100%;
+border-collapse: collapse;
+font-family: 'Filson', sans-serif;
+}
+th {
+background-color: #DE5126;
+color: #FFFFFF;
+padding: 10px;
+text-align: left;
+}
+td {
+padding: 8px;
+border-bottom: 1px solid #2D2625;
+}
+tr:nth-child(even) {
+background-color: #F8F8F8;
+}
